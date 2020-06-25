@@ -6,6 +6,7 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
+* [Community of Practice Leaders Best Practices/Lessons Learned](https://ec.yourlearning.ibm.com/w3/playback/10101913)
 * [Analytics at the Edge](https://www.ibm.com/cloud/blog/analytics-at-the-edge)
 * [Models Deployed at the Edge](https://www.wittkieffer.com/position/36612-chair-in-embodied-intelligence/)
 * [Three things you can do to keep your IT skills current at work](https://www.ibm.com/blogs/watson/2016/07/three-things-can-keep-skills-current-work/)
