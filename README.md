@@ -11,13 +11,13 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 * [Three things you can do to keep your IT skills current at work](https://www.ibm.com/blogs/watson/2016/07/three-things-can-keep-skills-current-work/)
 
 ## <a id=podcasts></a> Podcasts
-* [Closing the skills gap webminar](https://crestcom.com/blog/2020/09/18/episode-39-leadership-in-the-age-of-ai-with-it-architect-and-data-scientist-ivan-portilla/)
+* [Leadership in the Age of Artificial Intelligence](https://crestcom.com/blog/2020/09/18/episode-39-leadership-in-the-age-of-ai-with-it-architect-and-data-scientist-ivan-portilla/)
 
 ## <a id=talks></a> Talks
 
 <dl>
   <dt>Videos</dt>
-  <dd>Closing the skills gap Webminar</dd>
+  <dd>Leadership in the Age of AI</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=knoOLpGooYQ
 " target="_blank"><img src="http://img.youtube.com/vi/knoOLpGooYQ/0.jpg" 
 alt="Closing skills gap" width="240" height="180" border="10" /></a>
