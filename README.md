@@ -25,7 +25,7 @@ alt="Closing skills gap" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzFDE3ZDGV4
 " target="_blank"><img src="http://img.youtube.com/vi/uzFDE3ZDGV4/0.jpg" 
 alt="IBM Edge Computing demo" width="240" height="180" border="10" /></a>
-   <dd>WayBlazer Cognitive Conversion Application Powered by Watson & Neo4j.</dd>
+  
   <dd>Exploring the Human + Artificial Intelligence Partnership.</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmpXJ6ZwhQk
 " target="_blank"><img src="http://img.youtube.com/vi/zmpXJ6ZwhQk/0.jpg" 
