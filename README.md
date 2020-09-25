@@ -17,6 +17,11 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 
 <dl>
   <dt>Videos</dt>
+ 
+  <dd>Edge Computing - AI at the Edge</dd>
+<a href=" https://vimeo.com/461608387" target="_blank"><img src="https://innovation.svvsd.org/sites/default/files/Full-Color-Secondary.png" 
+alt="Edge Computing" width="240" height="180" border="10" /></a>
+  <dd>IBM Edge Computing demo.</dd>
   <dd>Leadership in the Age of AI</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=knoOLpGooYQ
 " target="_blank"><img src="http://img.youtube.com/vi/knoOLpGooYQ/0.jpg" 
