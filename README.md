@@ -22,8 +22,7 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
   <dt>Videos</dt>
  
   <dd>Demystifying AI, Machine Learning and Deep Learning</dd>
-  <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLDL.png" 
-alt="Demystifying AI" width="240" height="180" border="10" /></a>
+  <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
   <dd>Edge Computing - AI at the Edge</dd>
 <a href="https://vimeo.com/461608387" target="_blank"><img src="EdgeComputing.png" 
 alt="Edge Computing" width="240" height="180" border="10" /></a>
