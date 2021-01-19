@@ -6,8 +6,11 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
+* [Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
+* [AI Model Lifecycle Management: Organize Phase](https://www.ibm.com/cloud/blog/ai-model-lifecycle-management-organize)
+* [5G at the Edge](https://www.ibm.com/cloud/blog/5g-at-the-edge)
 * [Analytics at the Edge](https://www.ibm.com/cloud/blog/analytics-at-the-edge)
-* [Models Deployed at the Edge](https://www.wittkieffer.com/position/36612-chair-in-embodied-intelligence/)
+* [Models Deployed at the Edge](https://www.ibm.com/cloud/blog/models-deployed-at-the-edge)
 * [Three things you can do to keep your IT skills current at work](https://www.ibm.com/blogs/watson/2016/07/three-things-can-keep-skills-current-work/)
 
 ## <a id=podcasts></a> Podcasts
