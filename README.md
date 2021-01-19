@@ -6,7 +6,7 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
-* [Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
+* [IBM Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
 * [AI Model Lifecycle Management: Organize Phase](https://www.ibm.com/cloud/blog/ai-model-lifecycle-management-organize)
 * [5G at the Edge](https://www.ibm.com/cloud/blog/5g-at-the-edge)
 * [Analytics at the Edge](https://www.ibm.com/cloud/blog/analytics-at-the-edge)
@@ -17,15 +17,16 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 * [Leadership in the Age of Artificial Intelligence](https://crestcom.com/blog/2020/09/18/episode-39-leadership-in-the-age-of-ai-with-it-architect-and-data-scientist-ivan-portilla/)
 
 ## <a id=talks></a> Talks
-
 <dl>
   <dt>Videos</dt>
  
   <dd>Demystifying AI, Machine Learning and Deep Learning</dd>
   <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
+  
   <dd>Edge Computing - AI at the Edge</dd>
 <a href="https://vimeo.com/461608387" target="_blank"><img src="EdgeComputing.png" 
 alt="Edge Computing" width="240" height="180" border="10" /></a>
+
   <dd>IBM Edge Computing demo.</dd>
   <dd>Leadership in the Age of AI</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=knoOLpGooYQ
