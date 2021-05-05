@@ -6,6 +6,7 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
+* Featured in the [IBM 2020 Diversity & Inclusion Report](https://www.ibm.com/impact/be-equal/pdf/IBM_Diversity_Inclusion_Report_2020.pdf)
 * [IBM Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
 * [AI Model Lifecycle Management: Organize Phase](https://www.ibm.com/cloud/blog/ai-model-lifecycle-management-organize)
 * [5G at the Edge](https://www.ibm.com/cloud/blog/5g-at-the-edge)
@@ -20,6 +21,8 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 <dl>
   <dt>Videos</dt>
  
+  <dd>Guest Speaker London School of Economics</dd>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aFLCRwjAuJo" target="_blank"><img src="lse.png" alt="Big Data and AI" width="240" height="180" border="10" /></a>
   <dd>Demystifying AI, Machine Learning and Deep Learning</dd>
   <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
   
