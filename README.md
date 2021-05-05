@@ -6,6 +6,7 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
+* Highligthed in the [Longmont Leader newspaper](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) for wy work with [P-TECH](https://www.ptech.org/)
 * Featured in the [IBM 2020 Diversity & Inclusion Report](https://www.ibm.com/impact/be-equal/pdf/IBM_Diversity_Inclusion_Report_2020.pdf)
 * [IBM Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
 * [AI Model Lifecycle Management: Organize Phase](https://www.ibm.com/cloud/blog/ai-model-lifecycle-management-organize)
@@ -20,30 +21,40 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 ## <a id=talks></a> Talks
 <dl>
   <dt>Videos</dt>
- 
-  <dd>Guest Speaker London School of Economics</dd>
+  
+  
+  <dd>Guest Speaker at General Assembly</dd>
+  <a href="https://generalassembly.zoom.us/rec/play/hBLsZ3rCkCD_2sI7R40IJlNbZyw05FyfYry_5Xo1Pu7irHQBqFD_i9mOjC7sT9CGBG9qYbWYY3sM-13T.ZnngvfIStd5c2Pif?continueMode=true&_x_zm_rtaid=XQZeEMJoQuWb2qKeoQ9MRA.1620240153690.0e7a2d29a3746c9e8744e6e0cbb0d94c&_x_zm_rhtaid=794" target="_blank"><img src="ga.jpeg" alt="ML 101" width="480" height="180" border="10" /></a>
+  
+ <dd>Guest Speaker at Columbia University</dd>
+  <a href="https://columbiauniversity.zoom.us/rec/play/mQOuIpUk03UbOIorr0IFvaD4iPQX2j5mHKc-Wva6AbsuU82glaGsi6uVuLbvC3Ge9atzpaB_htPXUK4F.X3Ki1u0p26ykjH2k" target="_blank"><img src="cu.jpeg" alt="Big Data and AI" width="480" height="180" border="10" /></a>
+  </p>
+  <dd>Guest Speaker at London School of Economics</dd>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=aFLCRwjAuJo" target="_blank"><img src="lse.png" alt="Big Data and AI" width="240" height="180" border="10" /></a>
+  </p>
   <dd>Demystifying AI, Machine Learning and Deep Learning</dd>
   <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
-  
+  </p>
   <dd>Edge Computing - AI at the Edge</dd>
 <a href="https://vimeo.com/461608387" target="_blank"><img src="EdgeComputing.png" 
 alt="Edge Computing" width="240" height="180" border="10" /></a>
-
+</p>
   <dd>IBM Edge Computing demo.</dd>
   <dd>Leadership in the Age of AI</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=knoOLpGooYQ
 " target="_blank"><img src="http://img.youtube.com/vi/knoOLpGooYQ/0.jpg" 
 alt="Closing skills gap" width="240" height="180" border="10" /></a>
+</p>
   <dd>IBM Edge Computing demo.</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzFDE3ZDGV4
 " target="_blank"><img src="http://img.youtube.com/vi/uzFDE3ZDGV4/0.jpg" 
 alt="IBM Edge Computing demo" width="240" height="180" border="10" /></a>
-  
+  </p>
   <dd>Exploring the Human + Artificial Intelligence Partnership.</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zmpXJ6ZwhQk
 " target="_blank"><img src="http://img.youtube.com/vi/zmpXJ6ZwhQk/0.jpg" 
 alt="Exploring the Human + Artificial Intelligence Partnership" width="240" height="180" border="10" /></a>
+</p>
    <dd>WayBlazer Cognitive Conversion Application Powered by Watson & Neo4j.</dd>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pcA-22Md1qU
 " target="_blank"><img src="http://img.youtube.com/vi/pcA-22Md1qU/0.jpg" 
