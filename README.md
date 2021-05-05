@@ -24,19 +24,19 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
   
   
   <dd>Guest Speaker at General Assembly</dd>
-  <a href="https://generalassembly.zoom.us/rec/play/hBLsZ3rCkCD_2sI7R40IJlNbZyw05FyfYry_5Xo1Pu7irHQBqFD_i9mOjC7sT9CGBG9qYbWYY3sM-13T.ZnngvfIStd5c2Pif?continueMode=true&_x_zm_rtaid=XQZeEMJoQuWb2qKeoQ9MRA.1620240153690.0e7a2d29a3746c9e8744e6e0cbb0d94c&_x_zm_rhtaid=794" target="_blank"><img src="ga.jpeg" alt="ML 101" width="480" height="180" border="10" /></a>
+  <a href="https://generalassembly.zoom.us/rec/play/hBLsZ3rCkCD_2sI7R40IJlNbZyw05FyfYry_5Xo1Pu7irHQBqFD_i9mOjC7sT9CGBG9qYbWYY3sM-13T.ZnngvfIStd5c2Pif?continueMode=true&_x_zm_rtaid=XQZeEMJoQuWb2qKeoQ9MRA.1620240153690.0e7a2d29a3746c9e8744e6e0cbb0d94c&_x_zm_rhtaid=794" target="_blank"><img src="img/ga.jpeg" alt="ML 101" width="480" height="180" border="10" /></a>
   
  <dd>Guest Speaker at Columbia University</dd>
-  <a href="https://columbiauniversity.zoom.us/rec/play/mQOuIpUk03UbOIorr0IFvaD4iPQX2j5mHKc-Wva6AbsuU82glaGsi6uVuLbvC3Ge9atzpaB_htPXUK4F.X3Ki1u0p26ykjH2k" target="_blank"><img src="cu.jpeg" alt="Big Data and AI" width="480" height="180" border="10" /></a>
+  <a href="https://columbiauniversity.zoom.us/rec/play/mQOuIpUk03UbOIorr0IFvaD4iPQX2j5mHKc-Wva6AbsuU82glaGsi6uVuLbvC3Ge9atzpaB_htPXUK4F.X3Ki1u0p26ykjH2k" target="_blank"><img src="img/cu.jpeg" alt="Big Data and AI" width="480" height="180" border="10" /></a>
   </p>
   <dd>Guest Speaker at London School of Economics</dd>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aFLCRwjAuJo" target="_blank"><img src="lse.png" alt="Big Data and AI" width="240" height="180" border="10" /></a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=aFLCRwjAuJo" target="_blank"><img src="img/lse.png" alt="Big Data and AI" width="240" height="180" border="10" /></a>
   </p>
   <dd>Demystifying AI, Machine Learning and Deep Learning</dd>
-  <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
+  <a href="https://generalassembly.zoom.us/rec/share/mQ8hUtWX46g-f5uanpKizRMTtqVkQj8TsDMXwsokp4R59ejbfq9PIPsrtiiK_ZNq.qyYI6y_VJQnN_kEB" target="_blank"><img src="img/AIMLD.png" alt="Demystifying AI" width="240" height="180" border="10" /></a>
   </p>
   <dd>Edge Computing - AI at the Edge</dd>
-<a href="https://vimeo.com/461608387" target="_blank"><img src="EdgeComputing.png" 
+<a href="https://vimeo.com/461608387" target="_blank"><img src="img/EdgeComputing.png" 
 alt="Edge Computing" width="240" height="180" border="10" /></a>
 </p>
   <dd>IBM Edge Computing demo.</dd>
