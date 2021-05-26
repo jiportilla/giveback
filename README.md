@@ -6,7 +6,7 @@ I am an author and keynote speaker, I am recognized for my innovative work in da
 
 You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportilla/)
 ## <a id=publications></a> Publications
-* Highligthed in the [Longmont Leader newspaper](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) for wy work with [P-TECH](https://www.ptech.org/)
+* Highlighted in the [Longmont Leader newspaper](https://www.longmontleader.com/local-news/svvsd-students-developing-ibm-powered-technology-bring-real-life-solutions-to-life-3746811) for my work with [P-TECH](https://www.ptech.org/)
 * Featured in the [IBM 2020 Diversity & Inclusion Report](https://www.ibm.com/impact/be-equal/pdf/IBM_Diversity_Inclusion_Report_2020.pdf)
 * [IBM Academy Publication: The Artificial Intelligence Model Lifecycle Management White Paper](https://www.ibm.com/blogs/academy-of-technology/ai-model-lifecycle-management-white-paper/)
 * [AI Model Lifecycle Management: Organize Phase](https://www.ibm.com/cloud/blog/ai-model-lifecycle-management-organize)
