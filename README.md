@@ -21,7 +21,11 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 ## <a id=talks></a> Talks
 <dl>
   <dt>Videos</dt>
-  
+  </p>
+  <dd>IBM Think 2021</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=sj2LaiNAzLI
+" target="_blank"><img src="http://img.youtube.com/vi/sj2LaiNAzLI/0.jpg" 
+alt="Closing skills gap" width="240" height="180" border="10" /></a>
+</p>
   
   <dd>Guest Speaker at General Assembly</dd>
   <a href="https://generalassembly.zoom.us/rec/play/hBLsZ3rCkCD_2sI7R40IJlNbZyw05FyfYry_5Xo1Pu7irHQBqFD_i9mOjC7sT9CGBG9qYbWYY3sM-13T.ZnngvfIStd5c2Pif?continueMode=true&_x_zm_rtaid=XQZeEMJoQuWb2qKeoQ9MRA.1620240153690.0e7a2d29a3746c9e8744e6e0cbb0d94c&_x_zm_rhtaid=794" target="_blank"><img src="img/ga.jpeg" alt="ML 101" width="480" height="180" border="10" /></a>
