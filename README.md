@@ -21,6 +21,12 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 ## <a id=talks></a> Talks
 <dl>
   <dt>Videos</dt>
+  
+  </p>
+  <dd>IBM Colorado Technical Vitality Council May 2021</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=yMMV_nPohgE
+" target="_blank"><img src="http://img.youtube.com/vi/yMMV_nPohgE/0.jpg" 
+alt="TVC 2021" width="240" height="180" border="10" /></a>
+</p>
   </p>
   <dd>IBM Think 2021</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=sj2LaiNAzLI
 " target="_blank"><img src="http://img.youtube.com/vi/sj2LaiNAzLI/0.jpg" 
