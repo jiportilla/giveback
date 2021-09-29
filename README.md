@@ -24,6 +24,10 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
   <dt>Videos</dt>
   
   </p>
+   <dd>Jeff Jonas Interview</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=NjCBZeks_Xs
+" target="_blank"><img src="http://img.youtube.com/vi/NjCBZeks_Xs/0.jpg" 
+alt="TVC 2021" width="240" height="180" border="10" /></a>
+</p>
   <dd>IBM Colorado Technical Vitality Council May 2021</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=yMMV_nPohgE
 " target="_blank"><img src="http://img.youtube.com/vi/yMMV_nPohgE/0.jpg" 
 alt="TVC 2021" width="240" height="180" border="10" /></a>
