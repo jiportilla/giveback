@@ -23,7 +23,7 @@ You can connect with me here: [LinkedIn](https://www.linkedin.com/in/ivanportill
 <dl>
   <dt>Videos</dt>
   
-    </p>
+    
    <dd>Design Thinking - Sponsor Users</dd><a href="http://www.youtube.com/watch?feature=player_embedded&v=wDpx0at_TmY
 " target="_blank"><img src="http://img.youtube.com/vi/wDpx0at_TmY/0.jpg" 
 alt="TVC 2021" width="240" height="180" border="10" /></a>
